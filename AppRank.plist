@@ -1,0 +1,14 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.AppStore",
+			"com.apple.itunesstored",
+			"com.apple.ios.StoreKitUI",
+			"com.apple.storeservices",
+			"com.apple.springboard",
+			"com.apple.storebookkeeperd",
+			"com.apple.AuthKit",
+			"com.apple.ios.StoreKitUIService",
+		);
+	};
+}
